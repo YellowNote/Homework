@@ -1,3 +1,9 @@
+/*
+Tim Bourque
+This code is to take in a file and find the number of integers, first integer, second integer, last integer, second to last integer
+and display each
+*/
+
 #include <iostream>
 #include "stdafx.h"
 #include <fstream>
